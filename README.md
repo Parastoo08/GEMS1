@@ -40,3 +40,8 @@ Assessment will be 100% by coursework completed during the course. Exercises wil
 |Release Date  | Due Date            | Topic                             |
 |--------------|---------------------|-----------------------------------|
 
+## Python Environment
+
+`conda create env -f environment.yml`
+
+`conda activate GEMS1`
