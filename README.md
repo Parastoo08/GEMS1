@@ -34,11 +34,13 @@ The module will include cover the following topics:
 
 Assessment will be 100% by coursework completed during the course. Exercises will be distributed and submitted via GitHub 
 
-|Release Date  | Due Date            | Topic                             |
-|--------------------------|------------|------------|----------|
-|2023-01-12 15:00 | 2023-01-13  Fri 16:00 |-----------------------------------|
-|2023-01-19 15:00 |2023-01-20  Fri 16:00 | Seismic|
-|2023-01-26 15:00 |2023-01-27  Fri 16:00 |-----------------------------------|
+|Release Date             |Due Date  |Topic   |
+|--------------------------|------------|------------|
+|2023-01-12 15:00  | 2023-01-13  Fri 16:00 | .. | 
+|2023-01-19 15:00 | 2023-01-20  Fri 16:00 | Seismic | 
+|2023-01-26 15:00 | 2023-01-27  Fri 16:00 | well | 
+
+
 
 ## Python Environment
 
