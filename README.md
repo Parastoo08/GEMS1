@@ -34,11 +34,11 @@ The module will include cover the following topics:
 
 Assessment will be 100% by coursework completed during the course. Exercises will be distributed and submitted via GitHub 
 
-|Release Date             |Due Date  |Topic   |
-|--------------------------|------------|------------|
-|2023-01-12 15:00  | 2023-01-13  Fri 16:00 | .. | 
-|2023-01-19 15:00 | 2023-01-20  Fri 16:00 | Seismic | 
-|2023-01-26 15:00 | 2023-01-27  Fri 16:00 | well | 
+|Release Date             |Due Date  |
+|--------------------------|------------|
+|2023-01-12 15:00  | 2023-01-13  Fri 16:00 | 
+|2023-01-19 15:00 | 2023-01-20  Fri 16:00 | 
+|2023-01-26 15:00 | 2023-01-27  Fri 16:00 |  
 
 
 
@@ -47,3 +47,6 @@ Assessment will be 100% by coursework completed during the course. Exercises wil
 `conda create env -f environment.yml`
 
 `conda activate GEMS1`
+
+There maybe some issues with `segyio` and/or `mayavi`. If it is the case you may try other environments. There are two other settings provided 
+for `Mac- M1/M2` and `Mac- intel`. 
