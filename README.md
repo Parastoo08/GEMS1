@@ -15,7 +15,7 @@ The module will include cover the following topics:
 |2023-01-09 Mon | Gary Hampson| Parastoo Salah | 3.36/3.37/2.42
 |2023-01-10 Tue | Gary Hampson| Parastoo Salah | 3.36/3.37/2.42
 |2023-01-11  Wed | Gary Hampson |Parastoo Salah | 3.36/3.37
-|2023-01-12  Thu | Matthew Jackson| ... | 3.36/3.37
+|2023-01-12  Thu | Matthew Jackson| Vinicius Santos Silva | 3.36/3.37
 |2023-01-13  Fri |  assessment 
 |2023-01-16 Mon | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 1.47
 |2023-01-17 Tue | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 1.47
