@@ -1,11 +1,5 @@
-# GEMS1
+# Introduction to Resource Geology and Geophysics (GEMS 1)
 
-On successful completion of this module, students will be able to:
-1.	
-
-## Module Content
-
-The module will include cover the following topics:
 
 
 ## Lecture schedule
