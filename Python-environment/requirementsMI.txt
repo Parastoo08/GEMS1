@@ -1,0 +1,13 @@
+bruges
+matplotlib
+mayavi
+pandas
+scikit-image
+scikit-learn
+tensorflow
+segyio
+opencv-python
+scipy
+folium
+seaborn
+lasio
