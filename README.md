@@ -1,5 +1,24 @@
 # Introduction to Resource Geology and Geophysics (GEMS 1)
+# Wessex Basin group project
 
+- You can find all files required for this group project on this [link]().
+
+# Summary
+The principal aim of this fieldtrip is to illustrate and consolidate your classroom learning on the 
+ GEMS 1 module. We will do this by 
+examining key elements and processes of resource systems at outcrop in the Wessex Basin. You can find more details in the pdfs attached. 
+bring along your laptops, and check that you have the sketch-based RRM software, which you used for the third assessment in the GEMS 1 module,
+installed on them. 
+
+
+If you need to download the RRM software or access a refresher about how to use it,
+then look at the material for Session 25 of the GEMS1 module on [Blackboard](https://bb.imperial.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_2676052_1&course_id=_34698_1)
+
+
+# Assesment
+Assessment will be based on a group project that synthesises selected elements of the fieldtrip. The 
+groups and project are outlined at the end of this fieldguide, under notes for Day 5. The submission 
+deadline for the assessment is 5 pm, Friday 26th May
 
 
 ## Lecture schedule
