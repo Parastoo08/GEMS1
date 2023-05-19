@@ -3,7 +3,7 @@
 
 ## People
 
-  
+|Tole             |name  |Trained |
 |--------------------------|------------|------------|
 |Fieldtrip leader| Prof. Gary Hampson|Trained fieldwork first aider and mental health first aider|
 |GTA | Delia Kuye| Trained fieldwork first aider and mental health first aider|
