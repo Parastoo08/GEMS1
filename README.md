@@ -1,32 +1,26 @@
 # Introduction to Resource Geology and Geophysics (GEMS 1)
 
 
-## People
 
-|Tole             |name  |Trained |
+## Lecture schedule
+
+|Date             |Instructor  |other Instructor   |
 |--------------------------|------------|------------|
-|Fieldtrip leader| Prof. Gary Hampson|Trained fieldwork first aider and mental health first aider|
-|GTA | Delia Kuye| Trained fieldwork first aider and mental health first aider|
-|GTA | Michael Sims |_ |
-|GTA | Xinyu Dong| Trained fieldwork first aider | 
-
-|Date             |Instructor  |Moderator   |Room |
-|--------------------------|------------|------------|----------|
-|2023-01-09 Mon | Gary Hampson| Parastoo Salah | 3.36/3.37/2.42
-|2023-01-10 Tue | Gary Hampson| Parastoo Salah | 3.36/3.37/2.42
-|2023-01-11  Wed | Gary Hampson |Parastoo Salah | 3.36/3.37
-|2023-01-12  Thu | Matthew Jackson| Vinicius Santos Silva | 3.36/3.37
-|2023-01-13  Fri |  assessment 
-|2023-01-16 Mon | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 1.47
-|2023-01-17 Tue | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 1.47
-|2023-01-18  Wed | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 1.47
-|2023-01-19  Thu | Gary Hampson |Parastoo Salah | 3.36/3.37
-|2023-01-20  Fri |  assessment 
-|2023-01-23 Mon | Gary Hampson| Parastoo Salah | 3.36/3.37
-|2023-01-24 Tue | Gary Hampson| Parastoo Salah | 3.36/3.37
-|2023-01-25  Wed | Gary Hampson| Parastoo Salah | 3.36/3.37
-|2023-01-26  Thu | Gary Hampson| Carl Jacquemyn | 3.36/3.37
-|2023-01-27  Fri |  assessment 
+|2024-01-08 Mon | Gary Hampson| Parastoo Salah | 
+|2024-01-09 Tue | Gary Hampson| Parastoo Salah |
+|2024-01-10  Wed | Gary Hampson |Parastoo Salah |
+|2024-01-11  Thu | Matthew Jackson| |
+|2024-01-12  Fri |  assessment 
+|2024-01-15 Mon | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
+|2024-01-16 Tue | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
+|2024-01-17  Wed | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
+|2024-01-18  Thu | Parastoo Salah | | 
+|2024-01-19  Fri | Gary Hampson |Parastoo Salah |
+|2024-01-22 Mon | Gary Hampson| Parastoo Salah | 
+|2024-01-23 Tue | Gary Hampson| Parastoo Salah | 
+|2024-01-24  Wed | Gary Hampson| Parastoo Salah | 
+|2024-01-25  Thu | Gary Hampson| Carl Jacquemyn | 
+|2024-01-26  Fri |  assessment 
 
 
 
@@ -36,15 +30,14 @@ Assessment will be 100% by coursework completed during the course. Exercises wil
 
 |Release Date             |Due Date  |
 |--------------------------|------------|
-|2023-01-12 15:00  | 2023-01-13  Fri 16:00 | 
-|2023-01-19 15:00 | 2023-01-20  Fri 16:00 | 
-|2023-01-26 15:00 | 2023-01-27  Fri 16:00 |  
+|2024-01-11 17:00  | 2024-01-12  Fri 17:00 |  
+|2024-01-25 17:00 | 2024-01-26  Fri 17:00 |  
 
 
 
 ## Python Environment
 
-`conda create env -f environment.yml`
+`conda env create -f environment.yml`
 
 `conda activate GEMS1`
 

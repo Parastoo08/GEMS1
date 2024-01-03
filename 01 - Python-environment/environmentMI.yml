@@ -1,0 +1,14 @@
+
+name: GEMS1B
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.9 
+  - jupyter
+  - numpy
+  - jupyter_contrib_nbextensions
+  - pyqt
+  - pip:
+     - -r requirementsMI.txt

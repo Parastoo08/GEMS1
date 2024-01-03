@@ -1,4 +1,0 @@
-#!/bin/sh
-CONDA_SUBDIR=osx-64 conda env create -f environmentMM2.yml
-conda activate GEMS1B
-conda config --env --set subdir osx-64
