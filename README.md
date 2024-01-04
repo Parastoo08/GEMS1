@@ -7,18 +7,18 @@
 |Date             |Instructor  |other Instructor   |
 |--------------------------|------------|------------|
 |2024-01-08 Mon | Gary Hampson| Parastoo Salah | 
-|2024-01-09 Tue | Gary Hampson| Parastoo Salah |
-|2024-01-10  Wed | Gary Hampson |Parastoo Salah |
+|2024-01-09 Tue | Gary Hampson| 
+|2024-01-10  Wed | Gary Hampson |
 |2024-01-11  Thu | Matthew Jackson| |
 |2024-01-12  Fri |  assessment 
 |2024-01-15 Mon | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
 |2024-01-16 Tue | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
 |2024-01-17  Wed | Rebecca Bell| Parastoo Salah, Raul Adriaensen  | 
-|2024-01-18  Thu | Parastoo Salah | | 
-|2024-01-19  Fri | Gary Hampson |Parastoo Salah |
-|2024-01-22 Mon | Gary Hampson| Parastoo Salah | 
-|2024-01-23 Tue | Gary Hampson| Parastoo Salah | 
-|2024-01-24  Wed | Gary Hampson| Parastoo Salah | 
+|2024-01-18  Thu | Gary Hampson | Parastoo Salah | 
+|2024-01-19  Fri | Gary Hampson |
+|2024-01-22 Mon | Gary Hampson| 
+|2024-01-23 Tue | Gary Hampson|
+|2024-01-24  Wed | Gary Hampson| 
 |2024-01-25  Thu | Gary Hampson| Carl Jacquemyn | 
 |2024-01-26  Fri |  assessment 
 
